@@ -1,7 +1,7 @@
 <a href="#">
   <img src="./img/hi.gif" width="100%" />
 </a>
-<a align="left" href="#"><img width="100%" height="1" src="./img/gifs-de-linha-10.gif" /></a>
+<a align="left" href="#"><img width="100%" height="1" src="./img/separador.gif" /></a>
 <br />
 <br />
 
