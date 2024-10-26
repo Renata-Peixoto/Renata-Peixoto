@@ -16,7 +16,7 @@
 
 <div align="center">
   
-[![Spotify](https://novatorem-ewuf-bgzq6hhth-renatas-projects-8fdf5c07.vercel.app/api/spotify)](https://open.spotify.com/user/RenataYurley)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22gwssl5l4gaa74ve4cewe7rq&cover_image=true&theme=default&show_offline=false&background_color=a86371&interchange=false&bar_color=0d1117&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=22gwssl5l4gaa74ve4cewe7rq&redirect=true)
 
  </div>
  </br>
